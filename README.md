@@ -1,6 +1,7 @@
 ## Overview
 
 I created this analysis for the final project in my first Data Science class.
+I used this [Jupyter notebook](https://github.com/nccarolinet/NBA2K_Ranking/blob/dc29668edd4ed1e6ea2ef47625e235fd41cf01cd/CarolineTaylorFinalProject.ipynb) to preform this analysis.
 
 
 ## Problem Statement and Initial Analysis Plan:
